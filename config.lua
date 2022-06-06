@@ -101,8 +101,8 @@ Config.AuthorizedHelicopters = {
 
     @ INFO ( 1 )
      สามารถนำชื่อ WEBHOOK ไปใส่ใน serverlogAzael ได้เลย
-		'SPDHijack': 'WEBHOOKNAME', --งัดรถ
-		'SPDImPound': 'WEBHOOKNAME', --ส่งรถ
+		'SPDHijack': 'WEBHOOKNAME', 
+		'SPDImPound': 'WEBHOOKNAME', 
 		'SPDSeizeItem': 'WEBHOOKNAME',
 		'SPDSeizeMoney': 'WEBHOOKNAME',
 		'SPDSeizeDirtyMoney': 'WEBHOOKNAME',
