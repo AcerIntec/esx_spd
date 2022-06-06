@@ -73,12 +73,6 @@ Locales['en'] = {
   ['drag'] = 'escort',
   ['put_in_vehicle'] = 'ใส่เข้าไปในรถ',
   ['out_the_vehicle'] = 'เอาออกมาจากรถ',
-  --['fine'] = 'ค่าปรับ',
-  --['unpaid_bills'] = 'จัดการบิล',
-  --['license_check'] = 'จัดการใบขับขี่',
-  --['license_revoke'] = 'เพิกถอนใบขับขี่่',
-  --['license_revoked'] = 'your ~b~%s~s~ has been ~y~revoked~s~!',
-  --['licence_you_revoked'] = 'you revoked a ~b~%s~s~ which belonged to ~y~%s~s~',
   ['no_players_nearby'] = 'there is no player(s) nearby!',
   ['being_searched'] = 'you are being ~y~searched~s~ by the ~b~spd~s~',
   -- Vehicle interaction
@@ -132,8 +126,6 @@ Locales['en'] = {
   ['minor_offense'] = 'ความผิดเล็กน้อย',
   ['average_offense'] = 'ความผิดเฉลี่ย',
   ['major_offense'] = 'ความผิดที่สำคัญ',
-  -- ['fine_total'] = 'รายละเอียด: %s',
-  -- Vehicle Info Menu
   ['plate'] = 'plate: %s',
   ['owner_unknown'] = 'owner: Unknown',
   ['owner'] = 'owner: %s',
