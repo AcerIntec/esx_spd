@@ -97,3 +97,22 @@ Config.AuthorizedHelicopters = {
 		{model = 'volatus', props = {modLivery = 0}, price = 100000}
 	}
 }
+--[[
+
+    @ INFO ( 1 )
+     สามารถนำชื่อ WEBHOOK ไปใส่ใน serverlogAzael ได้เลย
+		'SPDHijack': 'WEBHOOKNAME', --งัดรถ
+		'SPDImPound': 'WEBHOOKNAME', --ส่งรถ
+		'SPDSeizeItem': 'WEBHOOKNAME',
+		'SPDSeizeMoney': 'WEBHOOKNAME',
+		'SPDSeizeDirtyMoney': 'WEBHOOKNAME',
+		'SPDSeizeWeapon': 'WEBHOOKNAME',
+		'SPDSeizeKey': 'WEBHOOKNAME',
+		'SPDGetStockItem': 'WEBHOOKNAME',
+		'SPDPutStockItem': 'WEBHOOKNAME',
+		'SPDPutArmoryWeapon': 'WEBHOOKNAME',
+		'SPDGetArmoryWeapon': 'WEBHOOKNAME',
+		'SPDBuyWeapon': 'WEBHOOKNAME',
+		'SPDBuyVehicle': 'WEBHOOKNAME',
+	
+]]--
